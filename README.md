@@ -1,5 +1,5 @@
 # Sistema de Vendas
-Este é um sistema de vendas que permite que usuários façam login em um painel exclusivo, cadastrem vendas e acompanhem seu desempenho de forma gráfica.
+Este é o Back End do sistema de vendas que permite que usuários façam login em um painel exclusivo, cadastrem vendas e acompanhem seu desempenho de forma gráfica.
 
 # Funcionalidades
 O sistema permite que os usuários:
